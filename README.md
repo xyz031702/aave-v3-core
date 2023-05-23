@@ -1,5 +1,6 @@
 [![Build pass](https://github.com/aave/aave-v3-core/actions/workflows/node.js.yml/badge.svg)](https://github.com/aave/aave-v3-core/actions/workflows/node.js.yml)
 [![codecov](https://codecov.io/gh/aave/aave-v3-core/branch/master/graph/badge.svg?token=U50KN38G67)](https://codecov.io/gh/aave/aave-v3-core)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxyz031702%2Faave-v3-core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxyz031702%2Faave-v3-core?ref=badge_shield)
 
 ```
         .///.                .///.     //.            .//  `/////////////-
@@ -124,3 +125,7 @@ docker-compose exec contracts-env bash
 # A new Bash terminal is prompted, connected to the container
 npm run test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxyz031702%2Faave-v3-core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxyz031702%2Faave-v3-core?ref=badge_large)
